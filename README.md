@@ -1,9 +1,9 @@
-#Loan Default Prediction
-#📌 Overview
+**Loan Default Prediction**
+**📌 Overview**
 
 This project uses a Decision Tree Classifier to predict whether a loan applicant will default based on their financial and demographic data.
 
-#📊 Dataset
+**📊 Dataset**
 
 File: UpdatedLoanDefaults.csv ( in the repository )
 
@@ -13,11 +13,11 @@ Target column: Default (0 = No Default, 1 = Default).
 
 All categorical features were converted to numeric values.
 
-#⚙️ Model
+**⚙️ Model**
 
 Algorithm: Decision Tree Classifier (scikit-learn)
 
-#Steps:
+**Steps:**
 
 Load CSV → preprocess data
 
